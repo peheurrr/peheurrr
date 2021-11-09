@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @peheurrr
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java and phyton, but I am an absolutly beginner
+- 🌱 I’m currently learning java
+
 - 📫 You can reach me on Instagram: christoph.q
  
 
