@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @peheurrr
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java
+-  Hi, I’m @peheurrr
+-  I’m interested in programming
+-  I’m currently learning java
 
-- 📫 You can reach me on Instagram: christoph.q
  
 
 <!---
